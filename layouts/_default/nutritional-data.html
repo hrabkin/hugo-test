@@ -1,0 +1,43 @@
+{{ with index .Site.Data .Params.jsonSrc }}
+  <h1>Nutritional Information for {{ $.Page.Title }}</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Value</th>
+        <th>Unit</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range .nutrients }}
+        <tr>
+          <td>{{ .name }}</td>
+          <td>{{ .value }}</td>
+          <td>{{ .unit }}</td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+{{ end }}
+
+  <h2>Food properties</h2>
+  <table>
+      <tr>
+        <th>Source</th>
+        {{ with .Page.Parent.Parent }}
+        <td><a href="{{ .Permalink }}">Canadian Nutrient File database</a></td>
+        {{ end }}
+      </tr>
+      <tr>
+        <th>Category</th>
+        {{ with .Page.Parent }}
+        <td><a href="{{ .Permalink }}">{{ .Page.Title }}</a></td>
+        {{ end }}
+      </tr>
+  </table>
+
+  <p>
+  {{ $.Page.Title }} nutrition facts and analysis. Daily values are based on a 2000 calorie a day diet. Recommended daily intake of essential amino acids is provided for 180 lbs person. Actual daily nutrient requirements might be different based on your age, gender, level of physical activity, medical history and other factors. All data displayed on this site is for general informational purposes only and should not be considered a substitute of a doctor's advice. Please consult with your doctor before making any changes to your diet. Nutrition labels presented on this site is for illustration purposes only. Food images may show a similar or a related product and are not meant to be used for food identification. Nutritional value of a cooked product is provided for the given weight of cooked food. This page may contain affiliate links to products through which we earn commission used to support this website development and operations. Data from CNF National Nutrient Database.
+  </p>
+
+  <a href="{{ .Parent.Permalink }}">Back to {{ .Parent.Title }}</a>

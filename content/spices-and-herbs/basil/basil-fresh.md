@@ -1,6 +1,6 @@
 ---
 title: "Basil, fresh"
 url: "/spices-and-herbs/basil/basil-fresh"
-categories: ["Spices and Herbs", "Basil"]
+layout: "nutritional-data"
+jsonSrc: "212"
 ---
-{{< nutritional-data src="data/212.json" >}}

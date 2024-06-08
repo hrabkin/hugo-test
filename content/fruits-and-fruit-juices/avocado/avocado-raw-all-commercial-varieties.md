@@ -1,6 +1,6 @@
 ---
 title: "Avocado, Raw, All Commercial Varieties"
 url: "/fruits-and-fruit-juices/avocado/avocado-raw-all-commercial-varieties/"
-categories: ["Fruits", "Avocado"]
+layout: "nutritional-data"
+jsonSrc: "1511"
 ---
-{{< nutritional-data src="data/1511.json" >}}

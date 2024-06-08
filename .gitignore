@@ -1,1 +1,4 @@
 public/404.html
+data/food_nutrients_measures.json
+data/groups_with_meta.json
+data/nutrients_rdi.json

@@ -1,6 +1,6 @@
 ---
 title: "Avocado, raw, florida"
 url: "/fruits-and-fruit-juices/avocado/avocado-raw-florida/"
-categories: ["Fruits", "Avocado"]
+layout: "nutritional-data"
+jsonSrc: "1513"
 ---
-{{< nutritional-data src="data/1513.json" >}}
