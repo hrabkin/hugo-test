@@ -1,0 +1,434 @@
+{
+    "nutrients": [
+        {
+            "name": "Protein",
+            "value": 2.23,
+            "unit": "g"
+        },
+        {
+            "name": "Fat",
+            "value": 10.06,
+            "unit": "g"
+        },
+        {
+            "name": "Carbohydrates",
+            "value": 7.82,
+            "unit": "g"
+        },
+        {
+            "name": "Ash",
+            "value": 1.08,
+            "unit": "g"
+        },
+        {
+            "name": "Calories",
+            "value": 120.0,
+            "unit": "kCal"
+        },
+        {
+            "name": "Sucrose",
+            "value": 0.0,
+            "unit": "g"
+        },
+        {
+            "name": "Glucose",
+            "value": 2.17,
+            "unit": "g"
+        },
+        {
+            "name": "Fructose",
+            "value": 0.25,
+            "unit": "g"
+        },
+        {
+            "name": "Lactose",
+            "value": 0.0,
+            "unit": "g"
+        },
+        {
+            "name": "Maltose",
+            "value": 0.0,
+            "unit": "g"
+        },
+        {
+            "name": "Alcohol",
+            "value": 0.0,
+            "unit": "g"
+        },
+        {
+            "name": "Water",
+            "value": 78.81,
+            "unit": "g"
+        },
+        {
+            "name": "Caffeine",
+            "value": 0.0,
+            "unit": "mg"
+        },
+        {
+            "name": "Theobromine",
+            "value": 0.0,
+            "unit": "mg"
+        },
+        {
+            "name": "Energy",
+            "value": 501.0,
+            "unit": "kJ"
+        },
+        {
+            "name": "Sugars",
+            "value": 2.42,
+            "unit": "g"
+        },
+        {
+            "name": "Dietary fiber",
+            "value": 5.6,
+            "unit": "g"
+        },
+        {
+            "name": "Calcium",
+            "value": 10.0,
+            "unit": "mg"
+        },
+        {
+            "name": "Iron",
+            "value": 0.17,
+            "unit": "mg"
+        },
+        {
+            "name": "Magnesium",
+            "value": 24.0,
+            "unit": "mg"
+        },
+        {
+            "name": "Phosphorus",
+            "value": 40.0,
+            "unit": "mg"
+        },
+        {
+            "name": "Potassium",
+            "value": 351.0,
+            "unit": "mg"
+        },
+        {
+            "name": "Sodium",
+            "value": 2.0,
+            "unit": "mg"
+        },
+        {
+            "name": "Zinc",
+            "value": 0.4,
+            "unit": "mg"
+        },
+        {
+            "name": "Copper",
+            "value": 0.311,
+            "unit": "mg"
+        },
+        {
+            "name": "Manganese",
+            "value": 0.095,
+            "unit": "mg"
+        },
+        {
+            "name": "Retinol (preformed vitamin A)",
+            "value": 0.0,
+            "unit": "µg"
+        },
+        {
+            "name": "Beta-carotene equivalents (provitamin A)",
+            "value": 53.0,
+            "unit": "µg"
+        },
+        {
+            "name": "Vitamin E",
+            "value": 2.66,
+            "unit": "mg"
+        },
+        {
+            "name": "Vitamin D, International Units",
+            "value": 0.0,
+            "unit": "IU"
+        },
+        {
+            "name": "Vitamin D",
+            "value": 0.0,
+            "unit": "µg"
+        },
+        {
+            "name": "Vitamin C",
+            "value": 17.4,
+            "unit": "mg"
+        },
+        {
+            "name": "Vitamin B1",
+            "value": 0.021,
+            "unit": "mg"
+        },
+        {
+            "name": "Vitamin B2",
+            "value": 0.053,
+            "unit": "mg"
+        },
+        {
+            "name": "Vitamin B3/PP",
+            "value": 0.672,
+            "unit": "mg"
+        },
+        {
+            "name": "Vitamin B5",
+            "value": 0.931,
+            "unit": "mg"
+        },
+        {
+            "name": "Vitamin B6",
+            "value": 0.078,
+            "unit": "mg"
+        },
+        {
+            "name": "Vitamin B12",
+            "value": 0.0,
+            "unit": "µg"
+        },
+        {
+            "name": "Vitamin B9",
+            "value": 0.0,
+            "unit": "µg"
+        },
+        {
+            "name": "Tryptophan",
+            "value": 0.028,
+            "unit": "g"
+        },
+        {
+            "name": "Threonine",
+            "value": 0.082,
+            "unit": "g"
+        },
+        {
+            "name": "Isoleucine",
+            "value": 0.094,
+            "unit": "g"
+        },
+        {
+            "name": "Leucine",
+            "value": 0.16,
+            "unit": "g"
+        },
+        {
+            "name": "Lysine",
+            "value": 0.147,
+            "unit": "g"
+        },
+        {
+            "name": "Methionine",
+            "value": 0.042,
+            "unit": "g"
+        },
+        {
+            "name": "Cystine plus cysteine",
+            "value": 0.031,
+            "unit": "g"
+        },
+        {
+            "name": "Phenylalanine",
+            "value": 0.108,
+            "unit": "g"
+        },
+        {
+            "name": "Tyrosine",
+            "value": 0.054,
+            "unit": "g"
+        },
+        {
+            "name": "Valine",
+            "value": 0.12,
+            "unit": "g"
+        },
+        {
+            "name": "Arginine",
+            "value": 0.099,
+            "unit": "g"
+        },
+        {
+            "name": "Histidine",
+            "value": 0.055,
+            "unit": "g"
+        },
+        {
+            "name": "Alanine",
+            "value": 0.121,
+            "unit": "g"
+        },
+        {
+            "name": "Aspartic acid",
+            "value": 0.264,
+            "unit": "g"
+        },
+        {
+            "name": "Glutamic acid",
+            "value": 0.321,
+            "unit": "g"
+        },
+        {
+            "name": "Glycine",
+            "value": 0.116,
+            "unit": "g"
+        },
+        {
+            "name": "Proline",
+            "value": 0.11,
+            "unit": "g"
+        },
+        {
+            "name": "Serine",
+            "value": 0.128,
+            "unit": "g"
+        },
+        {
+            "name": "Cholesterol",
+            "value": 0.0,
+            "unit": "mg"
+        },
+        {
+            "name": "Saturated Fats",
+            "value": 1.96,
+            "unit": "g"
+        },
+        {
+            "name": "Docosahexaenoic acid (DHA)",
+            "value": 0.0,
+            "unit": "g"
+        },
+        {
+            "name": "Monounsaturated Fats",
+            "value": 5.513,
+            "unit": "g"
+        },
+        {
+            "name": "Polyunsaturated Fats",
+            "value": 1.676,
+            "unit": "g"
+        },
+        {
+            "name": "Folate, natural",
+            "value": 35.0,
+            "unit": "µg"
+        },
+        {
+            "name": "Beta tocopherol",
+            "value": 0.08,
+            "unit": "mg"
+        },
+        {
+            "name": "Gamma tocopherol",
+            "value": 0.39,
+            "unit": "mg"
+        },
+        {
+            "name": "Delta tocopherol",
+            "value": 0.0,
+            "unit": "mg"
+        },
+        {
+            "name": "Vitamin A",
+            "value": 7.0,
+            "unit": "µg"
+        },
+        {
+            "name": "Dietary folate equivalents",
+            "value": 35.0,
+            "unit": "µg"
+        },
+        {
+            "name": "Alpha-carotene",
+            "value": 27.0,
+            "unit": "µg"
+        }
+    ],
+    "measures": [
+        {
+            "name": "100g",
+            "gramWeight": 100.0,
+            "factor": 1
+        },
+        {
+            "name": "g",
+            "gramWeight": 0.0,
+            "factor": 28.3495
+        },
+        {
+            "name": "oz",
+            "gramWeight": 0.0,
+            "factor": 0
+        },
+        {
+            "name": "1 fruit",
+            "gramWeight": 100,
+            "factor": 3.04
+        },
+        {
+            "name": "100ml puree",
+            "gramWeight": 100,
+            "factor": 0.9721
+        },
+        {
+            "name": "125ml puree",
+            "gramWeight": 100,
+            "factor": 1.21513
+        },
+        {
+            "name": "250ml puree",
+            "gramWeight": 100,
+            "factor": 2.43026
+        },
+        {
+            "name": "140g",
+            "gramWeight": 100,
+            "factor": 1.4
+        },
+        {
+            "name": "1/2 fruit",
+            "gramWeight": 100,
+            "factor": 1.52
+        }
+    ],
+    "moderate_dvs": [
+        {
+            "name": "Magnesium",
+            "dv%": 5.71
+        },
+        {
+            "name": "Potassium",
+            "dv%": 7.47
+        },
+        {
+            "name": "Vitamin E",
+            "dv%": 17.73
+        },
+        {
+            "name": "Vitamin C",
+            "dv%": 19.33
+        },
+        {
+            "name": "Vitamin B5",
+            "dv%": 18.62
+        },
+        {
+            "name": "Saturated Fats",
+            "dv%": 9.8
+        }
+    ],
+    "high_dvs": [
+        {
+            "name": "Copper",
+            "dv%": 34.56
+        }
+    ],
+    "low_dvs": [
+        {
+            "name": "Sodium",
+            "dv%": 0.09
+        }
+    ]
+}
